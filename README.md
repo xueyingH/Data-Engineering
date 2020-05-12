@@ -25,7 +25,7 @@ Besides, I build machine learning models to predict the drivers that come in the
 1. Split dataset, use data from 1950-2010 to train the model and predict in data from 2011-2017.
 2. Addressing problems caused by imbalanced data with upsampling method.
 3. Build Machine Learning Models (Random Forest, XGBoost, KNN), get metrics  and log the models.
-4. Get the importance of features and make datavisualizations.
+4. Get the importance of features and make visualizations.
 
 
  
